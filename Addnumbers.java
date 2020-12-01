@@ -8,7 +8,7 @@ public class Addnumbers {
 		
 		int a=10,b=20;
 		int sum=a+b;
-		System.out.println("the total Sum "+sum);
+		System.out.println("the total Sum is: "+sum);
 
 	}
 
